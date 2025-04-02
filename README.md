@@ -1,2 +1,8 @@
-# Meu_primeiro_site
-Repositório destinado ao aprendizado básico de html e css
+# Repositório básico - Meu primeiro site
+## Primeiro teste
+
+## CSS inline
+
+## CSS interno
+
+## CSS externo
